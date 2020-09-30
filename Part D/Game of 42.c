@@ -13,7 +13,7 @@ Purpose: Game of 42
 void UserPlay(void);
 void CompPlay(void);
 
-//globabl Variables.	I feel sick typing this because I know it is unsafe.
+//globabl Variables
 int score, compScore;
 
 int main(void){
